@@ -1,0 +1,24 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+h1 {
+  color: black;
+  background-color: #90A4AE;
+  background-size: 500px 100px;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+button {
+  padding: center;
+}
